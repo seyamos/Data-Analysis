@@ -4,8 +4,13 @@ Veri Seti : Telco Customer Churn [IBM Örnek Veri Kümeleri]
 
 https://www.kaggle.com/datasets/blastchar/telco-customer-churn
 
+Telco müşteri churn verileri, üçüncü çeyrekte Kaliforniya'daki 7043 müşteriye ev telefonu ve internet hizmetleri sağlayan bir telekom şirketi hakkında bilgi içerir.
+Hangi müşterilerin hizmetlerinden ayrıldığını, kaldığını veya hizmete kaydolduğunu içermektedir.
 
-### İş Problemi : İlgili müşteri verilerini analiz ederek müşteriyi elde tutma programları geliştirmek istenmektedir... 
+
+
+
+### İş Problemi : İlgili müşteri verilerini analiz ederek müşteriyi elde tutma programları geliştirmek istenmektedir.
 
 ### Proje amacı : Bir makine öğrenmesi modeli geliştirmeden önce gerekli olan veri analizi ve özellik mühendisliği adımlarını gerçekleştirmek.
 
