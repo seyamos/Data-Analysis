@@ -1,6 +1,7 @@
 ## Bu proje "Akbank Veri Analizi Bootcamp: Yeni Nesil Proje Kampı" için hazırlanmıştır.
 
 Veri Seti : Telco Customer Churn [IBM Örnek Veri Kümeleri]
+
 https://www.kaggle.com/datasets/blastchar/telco-customer-churn
 
 
@@ -8,7 +9,7 @@ https://www.kaggle.com/datasets/blastchar/telco-customer-churn
 
 ### Proje amacı : Bir makine öğrenmesi modeli geliştirmeden önce gerekli olan veri analizi ve özellik mühendisliği adımlarını gerçekleştirmek.
 
-Projede İzlenen Adımlar:
+Projede aşağıdaki adımlar izlenmiştir:
 
 1- Keşifsel Veri Analizi (EDA - Exploratory Data Analysis)
 *  Verinin tanınması ve anlaşılması
