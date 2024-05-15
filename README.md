@@ -1,4 +1,4 @@
-## Bu proje "Akbank Veri Analizi Bootcamp: Yeni Nesil Proje Kampı" için hazırlanmıştır.
+## Bu proje "Akbank Veri Analizi Bootcamp: Yeni Nesil Proje Kampı (Global AI Hub)" için hazırlanmıştır...
 
 Veri Seti : Telco Customer Churn [IBM Örnek Veri Kümeleri]
 
